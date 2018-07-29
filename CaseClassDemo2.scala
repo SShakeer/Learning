@@ -7,7 +7,7 @@ object CaseClassDemo2
 {
   def main(args: Array[String])  
     { 
-         val n = new Demo("Subbarao") 
+         val n = new Demo("Shaik") 
          println(n); 
          println(n.name) 
          n.name = "Shakeer"
