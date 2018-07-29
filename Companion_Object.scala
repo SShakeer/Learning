@@ -18,8 +18,8 @@ object Companion_Object {
   
   def main(args:Array[String]){
     
-    val d = Animal("Dog") 
-    val c = Animal("Cat") 
+    val d = Animal("Tiger") 
+    val c = Animal("Lion") 
         d.display 
         c.display 
   }
